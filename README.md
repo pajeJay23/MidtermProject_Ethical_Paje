@@ -63,10 +63,10 @@
 
 # THANK YOU! That is Common Applications in Linux and Their Uses
 
-PAJE:
+PAJE:<br>
 "Mastering the art of automation and infrastructure as code.GitHub repositories are a testament to their expertise in DevOps practices!"
 
 Social Media Link : [Facebook Account ](https://www.facebook.com/janfredriz.paje.9)
 <br>
-                   [(Facebook Page My Band Prettymuch](https://www.facebook.com/profile.php?id=100087491817721)
+                   [(Facebook Page My Band](https://www.facebook.com/profile.php?id=100087491817721)
                     
