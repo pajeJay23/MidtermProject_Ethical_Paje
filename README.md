@@ -3,7 +3,7 @@
 ## 1. **Terminal Emulator**
 - **Use**: A terminal emulator allows users to interact with the operating system through a command-line interface.
 - **Examples**: 
-  - **GNOME Terminal**: Default terminal emulator for GNOME desktop environment. [Tutorial how to use](https://www.youtube.com/watch?v=7ElQ-bvOK4s)
+  - **GNOME Terminal**: Default terminal emulator for GNOME desktop environment. [Tutorial how to use](https://www.youtube.com/watch?v=Xhd7uh_keio)
   - **Konsole**: Default terminal emulator for KDE desktop environment. [Tutorial how to use](https://www.youtube.com/watch?v=QQtGj8GvLHc)
 
 ## 2. **Text Editor**
